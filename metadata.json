@@ -1,0 +1,7 @@
+{
+  "name": "TravelWorld - Luxury Tour Booking",
+  "description": "A premium travel and tour booking landing page featuring holiday packages, top destinations, and a modern UI with pastel gradients and overlapping visual elements.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
